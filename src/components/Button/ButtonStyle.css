@@ -1,0 +1,12 @@
+.button a {
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: white;
+  transition: all 0.5s ease;
+}
+.button:hover a {
+  color: #0f52ba;
+  transition: all 0.5s ease;
+}
